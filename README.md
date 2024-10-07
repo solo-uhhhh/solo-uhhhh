@@ -4,8 +4,7 @@ I'm a 1st year Master student in Physics at ETH Zurich. Previously interested in
 
 Mostly working with usual Python libraries for Physics, looking to develop further programming skills.
 
-Pronouns: he/him
-
+Pronouns: he/him \newline
 Email: solomonstefan3@gmail.com
 <!--
 **solo-uhhhh/solo-uhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
