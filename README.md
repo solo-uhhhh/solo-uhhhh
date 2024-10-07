@@ -3,9 +3,10 @@
 I'm a 1st year Master student in Physics at ETH Zurich. Previously interested in Particle- and Astrophysics, now open to explore new topics of Quantum Science and Technology and Medical Applications.
 Mostly working with common Python libraries for Physics and Science, looking to develop further programming skills.
 
+Email: solomonstefan3@gmail.com
+
 Pronouns: he/him
 
-Email: solomonstefan3@gmail.com
 <!--
 **solo-uhhhh/solo-uhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
